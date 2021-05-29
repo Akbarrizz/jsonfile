@@ -18,11 +18,11 @@
       "unity_banner": "bannerid",
       "packagename": "com.aliendroid.wallpaperalien",
       "select_exit": "1"
-      "icon_promote": "",
-      "judul_promote": "",
-      "deskripsi_promote: "",
-      "gambar_promote":"",
-      "link_promote":""
+      "icon_promote": "1",
+      "judul_promote": "1",
+      "deskripsi_promote: "1",
+      "gambar_promote": "1",
+      "link_promote": "1"
     }
   ],
   "More":
