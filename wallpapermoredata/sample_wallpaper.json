@@ -17,16 +17,17 @@
       "unity_inter": "video",
       "unity_banner": "bannerid",
       "packagename": "com.aliendroid.wallpaperalien",
-      "select_exit": "3"
-    }
-  ],
-  "MoreDev": [
-    {
+      "select_exit": "3",
       "icon_promote": "https://play-lh.googleusercontent.com/JRd05pyBH41qjgsJuWduRJpDeZG0Hnb0yjf2nWqO7VaGKL10-G5UIygxED-WNOc3pg=s180-rw",
       "judul_promote": "PUBG MOBILE",
       "deskripsi_promote": "PLAYERUNKNOWN'S BATTLEGROUNDS",
       "gambar_promote": "https://play-lh.googleusercontent.com/Qvu42axKMKOlwXoVo5E6BK_1zOBFywGYjklbc6FuoUw4QM3zsB3QQOxd-aru5FdKDq8=w1024-h551-rw",
       "link_promote": "https://play.google.com/store/apps/details?id=com.tencent.ig"
+    }
+  ],
+  "MoreDev": [
+    {
+
     }
   ],
   "More": [
